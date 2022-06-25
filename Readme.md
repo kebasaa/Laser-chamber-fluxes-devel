@@ -8,6 +8,7 @@ A python notebook to merge data from chamber systems, with gas concentrations of
 2. Ambient concentration of CO<sub>2</sub> and H<sub>2</sub>O: LI-COR LI-7000 infrared gas analyser (IRGA) which is part of a parallel system
 3. Photosynthetically active radiation, i.e. PAR: 1st Campbell CR1000 datalogger and
 4. Temperatures (air and leaf surface): 2nd Campbell CR1000 datalogger
+5. Thermocouples (e.g. air or surface): 3rd Campbell CR1000 datalogger
 
 There are 2 notebooks in this project, and the data is organised as follows:
 1. Raw data is in folder *01_rawdata*, and logfiles are in *00_additional_data*
