@@ -1,4 +1,4 @@
-timestamp,temp.air.ambient.c,par.ambient.umol_m2_s,h2o.irga.ambient.mmol_mol,co2.irga.ambient.umol_mol,P.irga.kPa
+timestamp,temp.air.ambient.c,par.ambient.umol_m2_s1,h2o.irga.ambient.mmol_mol,co2.irga.ambient.umol_mol,P.irga.kPa
 2022-01-11 00:00:00,3.56077,-0.3645483,5.716234,415.5934,93.85538
 2022-01-11 00:00:02,3.586795,0.7290966,5.729876,414.884,93.84993
 2022-01-11 00:00:08,3.638839,0.7290966,5.743518,414.502,93.84993
