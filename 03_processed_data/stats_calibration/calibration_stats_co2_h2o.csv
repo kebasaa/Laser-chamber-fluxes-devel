@@ -1,4 +1,4 @@
-date,h2o.slope,h2o.intercept,h2o.r2,h2o.p,h2o.sd,h2o.n,co2.slope,co2.intercept,co2.r2,co2.p,co2.sd,co2.n
+date,conc.h2o.slope,conc.h2o.intercept,conc.h2o.r2,conc.h2o.p,conc.h2o.sd,conc.h2o.n,conc.co2.slope,conc.co2.intercept,conc.co2.r2,conc.co2.p,conc.co2.sd,conc.co2.n
 2022-01-11,,,,,,0,,,,,,0
 2022-01-12,,,,,,0,,,,,,0
 2022-01-13,,,,,,0,,,,,,0
